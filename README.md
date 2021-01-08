@@ -51,4 +51,6 @@
 Main: Commonly used,strong knowledge of basics & experience in common used items <br>
 Secondary: Strong comfort in using technology. Some experience in use <br>
 Familiar: Understand the technology at a limited capacity (often actively learning)  <br>
+
+
 ` Feel free to contact me about anything. Love to meet a new face or talk about just about anything 🏳‍🌈 ♻ 🌎 ` 
