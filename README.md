@@ -8,13 +8,16 @@
 <!-- #![Twitter Badge](https://img.shields.io/badge/-@PirateRoberts98-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PirateRoberts98)](https://twitter.com/PirateRoberts98) -->
 
 <!-- Insert Gif Header Here: https://msgif.net/ -->
+![messagif](https://user-images.githubusercontent.com/25108051/221100378-818f09a3-b79a-46ed-9dc5-9d3bae0d1d42.gif)
 
-### My names Robert Conrad, a software engineer with a BASc in Computer Engineering (Managment and Coop option) from the University of Ottawa. My work experience focuses around backend and mobile applications, though i also have interests in tech ethics, computer vision and application of technology for creative use (media transfer, graphics, VR\AR).
+## What do I Do?
+
+I work on Software & Computer Engineering problems focused on application level problems that interface with hardware. My experience has primarily been on Desktop Applications, Backend Services and Mobile Development with the later being my post graduation topics. I have worked with interfacing network level, camera oriented applications and variety of hardware services like NFC and Audio Collection. I aspire to learn more about applying my experience in cross platform and versitile use applications with interesting computer and world problems.
  
 ## Behind the Git Blame 
  
 
-- 👨‍👩‍👦 I love working in communties. In the past i helped start a Hackathon at my school, ran community and business for a robotics club and took part in local and provicial tech and engineering communities with IEEE and ESSCO 
+- 👨‍👩‍👦 I love working in communties. In my undergraduate I worked on starting a Hackathon, working on autonomous robotics design as well as community education and collaboration and worked in the IEEE student branch at local, regional and North American levels! 
 - 🤖 Ive worked Coop terms at companies working on Software Defined Radios, Real time imaging, network managment and Quantum Communications. 
 - 🎺 Im a huge music fan. Jazz, Alternative , Broadway are my tops but ill listen to pretty much anything (anything vaporwave or 90\00's tech inpsired is my niche)
 - 🃏 I love creative applications. In the past ive played with designing a board game, making a ARG and desinging costumes\cosplays from pop culture and personal design
