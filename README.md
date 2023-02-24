@@ -2,9 +2,12 @@
 
 
 # 👨 Robert Conrad (He/Him) 🎺
-[![Twitter Badge](https://img.shields.io/badge/-@PirateRoberts98-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PirateRoberts98)](https://twitter.com/PirateRoberts98)[![Linkedin Badge](https://img.shields.io/badge/-PirateRoberts98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PirateRoberts98/)](https://www.linkedin.com/in/PirateRoberts98/)[![Instagram Badge](https://img.shields.io/badge/-PirateRoberts98-3f729b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/PirateRoberts98/)](https://www.instagram.com/PirateRoberts98/)[![Gmail Badge](https://img.shields.io/badge/-robert.conrad@ieee.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robert.conrad@ieee.org)](mailto:robert.conrad@ieee.org)
+[![Linkedin Badge](https://img.shields.io/badge/-PirateRoberts98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PirateRoberts98/)](https://www.linkedin.com/in/PirateRoberts98/)[![Instagram Badge](https://img.shields.io/badge/-PirateRoberts98-3f729b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/PirateRoberts98/)](https://www.instagram.com/PirateRoberts98/)[![Gmail Badge](https://img.shields.io/badge/-robert.conrad@ieee.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robert.conrad@ieee.org)](mailto:robert.conrad@ieee.org)[![Medium Badge](https://img.shields.io/badge/-PirateRoberts98-blue?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/PirateRoberts98/)](https://medium.com/@PirateRoberts98)
 
+<!-- Twitter (Exists but not something I am focusing on in the current time -->
+<!-- #![Twitter Badge](https://img.shields.io/badge/-@PirateRoberts98-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PirateRoberts98)](https://twitter.com/PirateRoberts98) -->
 
+<!-- Insert Gif Header Here: https://msgif.net/ -->
 
 ### My names Robert Conrad, a software engineer with a BASc in Computer Engineering (Managment and Coop option) from the University of Ottawa. My work experience focuses around backend and mobile applications, though i also have interests in tech ethics, computer vision and application of technology for creative use (media transfer, graphics, VR\AR).
  
