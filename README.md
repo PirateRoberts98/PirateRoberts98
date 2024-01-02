@@ -25,6 +25,7 @@ I work on Software & Computer Engineering problems focused on application level 
 ## My Technical "Stack"
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+[![OS](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 <!-- [![Dotfiles](https://img.shields.io/badge/Setup_-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/PirateRoberts98/dotfiles) -->
 
@@ -43,7 +44,7 @@ I work on Software & Computer Engineering problems focused on application level 
             <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="images\language\cpp.svg"  alt="cpp" width="40" height="40"/> </a>
             <a href="https://golang.org/" target="_blank"> <img src="images\language\golang.svg"  alt="golang" width="40" height="40"/>
             </a> <a href="https://www.python.org/" target="_blank"> <img src="images\language\python.svg"  alt="python" width="40" height="40"/> </a> 
-            <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="images\language\bash.svg"  alt="bash" width="40" height="40"/> </a>
+                        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank"> <img src="images\language\csharp.svg"  alt="csharp" width="40" height="40"/> </a>
         </td>
         <td>
             <a href="https://dart.dev" target="_blank"> <img src="images\language\dart.svg"  alt="dart" width="40" height="40"/> </a>
@@ -51,7 +52,6 @@ I work on Software & Computer Engineering problems focused on application level 
             <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="images\language\java.svg"  alt="java" width="40" height="40"/> </a>  
         </td>
         <td>
-            <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank"> <img src="images\language\csharp.svg"  alt="csharp" width="40" height="40"/> </a>
             <a href="https://kotlinlang.org/" target="_blank"> <img src="images\language\kotlin.svg"  alt="kotlin" width="40" height="40"/> </a> 
             <!-- <a href="https://www.rust-lang.org/" target="_blank"> <img src="images\language\rust.svg"  alt="rust" width="40" height="40"/> </a>  -->
         </td>
@@ -59,6 +59,8 @@ I work on Software & Computer Engineering problems focused on application level 
     <tr>
         <td> Web Development</td>
         <td>
+                    <a href="https://flutter.dev" target="_blank"> <img src="images\language\flutter.svg"  alt="flutter" width="40" height="40"/> </a>
+                    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg"  alt="ASP.NET" width="40" height="40"/> </a>
         </td>
         <td>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images\language\javascript.svg"  alt="javascript" width="40" height="40"/> </a> 
