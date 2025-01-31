@@ -12,15 +12,16 @@
 
 ## What do I Do?
 
-I work on Software & Computer Engineering problems focused on application level problems that interface with hardware. My experience has primarily been on Desktop Applications, Backend Services and Mobile Development with the later being my post graduation topics. I have worked with interfacing network level, camera oriented applications and variety of hardware services like NFC and Audio Collection. I aspire to learn more about applying my experience in cross platform and versitile use applications with interesting computer and world problems.
+I work on Software & Computer Engineering problems focused on mobile, serverside and desktop applications level problems that involve integrating and communicating with hardware, primarily Camera base systems. My experience has primarily been on Desktop Applications, Backend Services and Mobile Development with the later being my post graduation topics. I have worked with interfacing network level, camera oriented applications and variety of hardware services like NFC and Audio Collection. I aspire to learn more about applying my experience in cross platform and versitile use applications with interesting computer and world problems.
  
 ## Behind the Git Blame 
  
 
 - 👨‍👩‍👦 I love working in communties. In my undergraduate I worked on starting a Hackathon, working on autonomous robotics design as well as community education and collaboration and worked in the IEEE student branch at local, regional and North American levels! 
 - 🤖 Ive worked Coop terms at companies working on Software Defined Radios, Real time imaging, network managment and Quantum Communications. 
-- 🎺 Im a huge music fan. Jazz, Alternative , Broadway are my tops but ill listen to pretty much anything (anything vaporwave or 90\00's tech inpsired is my niche)
-- 🃏 I love creative applications. In the past ive played with designing a board game, making a ARG and desinging costumes\cosplays from pop culture and personal design
+- 🎺 Im a huge music fan. Jazz, Alternative , Broadway are my tops but I listen to pretty much anything (anything vaporwave, JPop or 90\00's tech inpsired is my niche)
+- 🃏 I love creative applications. In the past ive played with designing a board game, making a ARG and desinging costumes\cosplays from pop culture and personal design. In my spare time I sing in a local men's choir and work to build events for local school students to learn robotics.
+- 🏳‍🌈 I am openly queer and advocate on behalf of protecting the rights of those within my community. I am happy to share my experience and help inform those less knowledgable in hopes people can learn to understand one another.
 
 ## My Technical "Stack"
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
@@ -42,11 +43,11 @@ I work on Software & Computer Engineering problems focused on application level 
         <td>
             <a href="https://flutter.dev" target="_blank"> <img src="images\language\flutter.svg"  alt="flutter" width="40" height="40"/> </a>
             <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="images\language\cpp.svg"  alt="cpp" width="40" height="40"/> </a>
-            <a href="https://golang.org/" target="_blank"> <img src="images\language\golang.svg"  alt="golang" width="40" height="40"/>
-            </a> <a href="https://www.python.org/" target="_blank"> <img src="images\language\python.svg"  alt="python" width="40" height="40"/> </a> 
-                        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank"> <img src="images\language\csharp.svg"  alt="csharp" width="40" height="40"/> </a>
+            <a href="https://golang.org/" target="_blank"> <img src="images\language\golang.svg"  alt="golang" width="40" height="40"/> </a> 
+            <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank"> <img src="images\language\csharp.svg"  alt="csharp" width="40" height="40"/> </a>
         </td>
         <td>
+           <a href="https://www.python.org/" target="_blank"> <img src="images\language\python.svg"  alt="python" width="40" height="40"/> </a> 
             <a href="https://dart.dev" target="_blank"> <img src="images\language\dart.svg"  alt="dart" width="40" height="40"/> </a>
             <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="images\language\c.svg"  alt="c" width="40" height="40"/> </a>
             <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="images\language\java.svg"  alt="java" width="40" height="40"/> </a>  
@@ -61,14 +62,14 @@ I work on Software & Computer Engineering problems focused on application level 
         <td>
                     <a href="https://flutter.dev" target="_blank"> <img src="images\language\flutter.svg"  alt="flutter" width="40" height="40"/> </a>
                     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg"  alt="ASP.NET" width="40" height="40"/> </a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img src="images\language\html5.svg"  alt="html5" width="40" height="40"/> </a> 
+                                            <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3" target="_blank"> <img src="images\language\css3.svg"  alt="css3" width="40" height="40"/> </a>
         </td>
         <td>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images\language\javascript.svg"  alt="javascript" width="40" height="40"/> </a> 
             <a href="https://webassembly.org/" target="_blank"> <img src="images\frameworks\wasm.png"  alt="wasm" width="40" height="40"/> </a> 
-            <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img src="images\language\html5.svg"  alt="html5" width="40" height="40"/> </a>   
         </td>
         <td>
-            <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3" target="_blank"> <img src="images\language\css3.svg"  alt="css3" width="40" height="40"/> </a>
             <a href="https://getbootstrap.com/" target="_blank"> <img src="images\frameworks\bootstrap.svg"  alt="bootstrap" width="40" height="40"/> </a> 
         </td>
   </tr>
@@ -76,6 +77,8 @@ I work on Software & Computer Engineering problems focused on application level 
     <td>Database</td>
     <td>
         <a href="https://www.postgresql.org/" target="_blank"> <img src="images\database\postgresql.svg"  alt="postgresql" width="40" height="40"/> </a>
+                <a href="https://www.sqlite.org/" target="_blank"> <img src="images\database\sqlite.png"  alt="sqlite" width="40" height="40"/> </a>
+                                <a href="https://www.microsoft.com/en-ca/sql-server" target="_blank"> <img src="images\database\microsoftsql.png"  alt="sql server" width="40" height="40"/> </a>
         <!-- <a href="https://www.mongodb.com/3" target="_blank"> <img src="images\database\mongoDB.svg"  alt="mongodb" width="40" height="40"/> </a> -->
     </td>
     <td>
@@ -106,14 +109,14 @@ I work on Software & Computer Engineering problems focused on application level 
     <td>
         <a href="https://git-scm.com/" target="_blank"> <img src="images\tools\git.svg"  alt="git" width="40" height="40"/>  </a>
         <a href="https://www.jenkins.io/" target="_blank"> <img src="images\devops\jenkins.svg"  alt="jenkins" width="40" height="40"/> </a> 
-        <a href="https://www.atlassian.com/software/bamboo" target="_blank"> <img src="images\devops\bamboo.png"  alt="bamboo" width="40" height="40"/> </a>
         <a href="https://www.docker.com/" target="_blank"> <img src="images\devops\docker.svg"  alt="docker" width="40" height="40"/> </a> 
+                <a href="https://aws.amazon.com/" target="_blank"> <img src="images\devops\aws.svg"  alt="aws" width="40" height="40"/> </a>
     </td>
     <td>
+        <a href="https://www.atlassian.com/software/bamboo" target="_blank"> <img src="images\devops\bamboo.png"  alt="bamboo" width="40" height="40"/> </a>
         <a href="https://www.vagrantup.com/" target="_blank"> <img src="images\devops\vagrant.svg"  alt="vagrant" width="40" height="40"/> </a>  
     </td>
     <td>
-        <a href="https://aws.amazon.com/" target="_blank"> <img src="images\devops\aws.svg"  alt="aws" width="40" height="40"/> </a>
         <a href="https://azure.microsoft.com/en-ca/" target="_blank"> <img src="images\devops\azure.jpg"  alt="azure" width="40" height="40"/> </a>  
     </td>
   </tr>
