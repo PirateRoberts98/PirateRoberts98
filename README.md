@@ -2,6 +2,7 @@
 
 
 # 👨 Robert Conrad (He/Him) 🎺
+Previously: @PirateRoberts98
 [![Linkedin Badge](https://img.shields.io/badge/-PirateRoberts98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PirateRoberts98/)](https://www.linkedin.com/in/PirateRoberts98/)[![Instagram Badge](https://img.shields.io/badge/-PirateRoberts98-3f729b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/PirateRoberts98/)](https://www.instagram.com/PirateRoberts98/)[![Medium Badge](https://img.shields.io/badge/-PirateRoberts98-blue?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/PirateRoberts98/)](https://medium.com/@PirateRoberts98)
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-robert.conrad@ieee.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robert.conrad@ieee.org)](mailto:robert.conrad@ieee.org) -->
